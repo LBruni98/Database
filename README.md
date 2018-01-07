@@ -12,3 +12,9 @@ The way I created the database was through the site [Draw.io]. The site has many
 
 [Draw.io]: https://www.draw.io
 #### SQL Code
+
+Code for the SQL Database is located [here.](https://github.com/LBruni98/ERD-and-SQL-table/blob/master/Database.sql)
+
+#### References
+* https://www.w3schools.com/sql/trysql.asp?filename=trysql_create_table
+* https://www.w3schools.com/sql/default.asp
