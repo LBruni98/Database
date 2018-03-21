@@ -22,6 +22,15 @@ The student database SQL [code.](https://github.com/LBruni98/ERD-and-SQL-table/b
 
 The game database SQL [code.](https://github.com/LBruni98/ERD-and-SQL-table/blob/master/GameDatabase.sql)
 
+#### Database
+* The [database](https://github.com/LBruni98/ERD-and-SQL-table/blob/master/GameDatabase.accdb?raw=true)
+* The [data dictionary](https://github.com/LBruni98/ERD-and-SQL-table/blob/master/Data%20Dictionary.xlsx?raw=true)
+
+##### Forms
+##### Reports
+##### Data Validation
+##### Query Across Multiple Tables
+
 #### References
 * https://www.w3schools.com/sql/trysql.asp?filename=trysql_create_table
 * https://www.w3schools.com/sql/default.asp
