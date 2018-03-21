@@ -13,6 +13,8 @@ The way I created the database was through the site [Draw.io]. The site has many
 ##### Game Heros and Enemies ERD
 ![ERD](https://github.com/LBruni98/ERD-and-SQL-table/blob/master/ERD%20Diagram%20for%20Game.png)
 
+The diagram above shows the various entities; Enemies, Heroes, Skills and the Skills belonging to both heroes and Enemies. I created the diagram using the site [Draw.io], a site that allows the creation of charts. This site has many tools to help create numerious flowcharts of any kind as well as chart formatting, page settings and ability to link to your github account and Repo. The site is entirely free without having to sign up.
+
 [Draw.io]: https://www.draw.io
 #### SQL Code
 
