@@ -18,7 +18,9 @@ The diagram above shows the various entities; Enemies, Heroes, Skills and the Sk
 [Draw.io]: https://www.draw.io
 #### SQL Code
 
-Code for the SQL Database is located [here.](https://github.com/LBruni98/ERD-and-SQL-table/blob/master/Database.sql)
+The student database SQL [code.](https://github.com/LBruni98/ERD-and-SQL-table/blob/master/Database.sql)
+
+The game database SQL [code.](https://github.com/LBruni98/ERD-and-SQL-table/blob/master/GameDatabase.sql)
 
 #### References
 * https://www.w3schools.com/sql/trysql.asp?filename=trysql_create_table
