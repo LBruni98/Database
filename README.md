@@ -44,9 +44,26 @@ The game database SQL [code.](https://github.com/LBruni98/ERD-and-SQL-table/blob
 * The [data dictionary](https://github.com/LBruni98/ERD-and-SQL-table/blob/master/Data%20Dictionary.xlsx?raw=true)
 
 ##### Forms
+![Enemies Form](https://github.com/LBruni98/ERD-and-SQL-table/blob/master/Enemies%20Form.PNG)
+The form here details an individual entry from the table. Detailing the ID, Name, Health and Damage and buttons at the bottom that allows the user to enter another entry to the database or delete them.
+
+![Navigational Form](https://github.com/LBruni98/ERD-and-SQL-table/blob/master/Navigational%20Form.PNG)
+The navigational form is mainly for the user to quickly go back and forth between forms, tables or reports. This makes for easier navigation and can perform functions listed in the first form above.
+
 ##### Reports
+![Damage Report](https://github.com/LBruni98/ERD-and-SQL-table/blob/master/Damage%20Report.PNG)
+The report covers individual entities from each table. Here, I gathered the damage entity and got certain entries that had a specific damage value.
+
 ##### Data Validation
+![Data Dropdown](https://github.com/LBruni98/ERD-and-SQL-table/blob/master/Data%20Dropdown.PNG)
+Here is a data validation dropdown menu, in the form view. This basically has a set amount and can be set to different measures and can only have pre selected values.
+
+![Validation](https://github.com/LBruni98/ERD-and-SQL-table/blob/master/Data%20Validation.PNG)
+The second image details set restrictions when entering HP in a form. Rather than enter any amount, this had a preference set where the user can only enter values between 0 and 10,000. Any other value would give a error message.
+
 ##### Query Across Multiple Tables
+![Across All Enemies](https://github.com/LBruni98/ERD-and-SQL-table/blob/master/Across%20all%20enemies.PNG)
+This is essentially a query run to count specific values from a table and display it as its own table with the entries included. By entering in SQL view ```SELECT COUNT(*) FROM HEROES;``` and running it, a table is brought up counting all the entries in a specific table.
 
 #### References
 * https://www.w3schools.com/sql/trysql.asp?filename=trysql_create_table
