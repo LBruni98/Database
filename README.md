@@ -1,4 +1,4 @@
-# ERD and SQL table
+# Database
 
 #### ERD
 ##### What is an ERD?
